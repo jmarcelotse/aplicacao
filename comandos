@@ -1,4 +1,4 @@
 source C:\projetos\aplicacao\venv\Scripts\activate criar ambiente virtual
 .\venv\Scripts\activate ativar ambiente virtual
 pip install Django instalar o django no ambiente virtual
-
+python manage.py runserver
