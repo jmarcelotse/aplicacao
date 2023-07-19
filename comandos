@@ -10,3 +10,16 @@ Um projeto Django é um conjunto de configurações e aplicativos que trabalham 
 
 Por outro lado, um app Django é uma unidade modular dentro de um projeto Django. Um app é uma parte reutilizável e independente de um projeto maior.
 
+python .\manage.py startapp receitas para criar um app (ele pode ser criado em qualquer lugar do ambiente)
+
+ python .\manage.py startapp receitas # criar um app
+
+ ####################################################
+ Criamos uma pasta para manter todo código da nossa aplicação;
+
+Utilizamos o módulo venv, que fornece suporte para a criação de ambientes virtuais leves com seus próprios diretórios, opcionalmente isolados dos diretórios do sistema;
+
+Utilizamos o pip para instalar o Django em nosso ambiente virtual;
+
+Iniciamos o desenvolvimento da nossa aplicação com o comando django-admin start project alurareceita e subimos o servidor com o comando python manage.py runserver.
+######################################################
