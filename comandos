@@ -1,4 +1,12 @@
+Isso para Windows
+Para linux é outro caminho 
 source C:\projetos\aplicacao\venv\Scripts\activate criar ambiente virtual
 .\venv\Scripts\activate ativar ambiente virtual
 pip install Django instalar o django no ambiente virtual
 python manage.py runserver
+
+Diferença em projeto e app no django
+Um projeto Django é um conjunto de configurações e aplicativos que trabalham juntos para criar uma aplicação web completa.
+
+Por outro lado, um app Django é uma unidade modular dentro de um projeto Django. Um app é uma parte reutilizável e independente de um projeto maior.
+
